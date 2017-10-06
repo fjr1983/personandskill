@@ -1,5 +1,4 @@
-This rest API with spring-boot, spring-data and H2 database.
-This rest API performs the following read operations:
+Using spring-boot, spring-data and H2 database this rest API performs the following read operations:
 a) Get all persons including relationships (skill)
 b) Get an specific person including relationships using person_id as parameter
 c) Get set of skill for specific person_id
